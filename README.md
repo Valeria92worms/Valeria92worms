@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Valeria92worms
+- 👋 Hi, I’m @Valeria
 - 👀 I’m interested in neuroscience
 - 🌱 I’m currently a PhD student
 - 💞️ I’m looking to collaborate on behavioral analysis on C elegans
